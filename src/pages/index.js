@@ -1,6 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
-import Layout from "../components/Layout"
+import Layout from "../components/shared/Layout"
+import "../styles/main.scss"
 
 export default function Index() {
   return (
